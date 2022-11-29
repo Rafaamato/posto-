@@ -1,0 +1,17 @@
+1 carros na fila.
+2.00 litros vendidos.
+6.00 é o valor arrecadado com as vendas.
+1.00 litros disponíveis no posto.
+1 carros atendidos.
+
+Carros atendidos: 
+--- Carro 1 ---
+marca: a
+placa: a
+cor: a
+
+Carros na fila: 
+--- Carro 1 ---
+marca: b
+placa: b
+cor: b
